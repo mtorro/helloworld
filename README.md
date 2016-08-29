@@ -1,2 +1,2 @@
 # helloworld
-My First Repository
+This is MT's first repository.
